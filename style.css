@@ -19,6 +19,7 @@ margin-left: -400px;
     transition: width 2s;
     background-color: pink;
     text-align: auto;
+    text-decoration: none;
 }
 .btnpresent{
     width: 130px;
@@ -26,6 +27,7 @@ margin-left: -400px;
     transition: width 2s;
     background-color: pink;
     text-align: auto;
+    text-decoration: none;
 }
 .btnhistory:hover{
     width: 250px;
