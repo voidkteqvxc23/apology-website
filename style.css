@@ -8,14 +8,15 @@ margin-left: -400px;
 .history{
     position: absolute;
     left:0px;
-    text-decoration: none;
+
 
 }
 .present{
     position: absolute;
     right:0px;
+}
+a {
     text-decoration: none;
-
 }
 .btnhistory{
     width: 130px;
