@@ -14,14 +14,14 @@ margin-left: -400px;
     right:0px;
 }
 .btnhistory{
-    width: 150px;
+    width: 130px;
     height:500px;
     transition: width 2s;
     background-color: pink;
     text-align: auto;
 }
 .btnpresent{
-    width: 150px;
+    width: 130px;
     height:500px;
     transition: width 2s;
     background-color: pink;
