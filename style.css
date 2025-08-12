@@ -1,0 +1,42 @@
+#festival{
+    position:absolute;
+margin-left: -400px;
+}
+.Void {
+    text-align: center; background-color: lightpink;
+}
+.history{
+    position: absolute;
+    left:0px;
+}
+.present{
+    position: absolute;
+    right:0px;
+}
+.btnhistory{
+    width: 150px;
+    height:500px;
+    transition: width 2s;
+    background-color: pink;
+    text-align: auto;
+}
+.btnpresent{
+    width: 150px;
+    height:500px;
+    transition: width 2s;
+    background-color: pink;
+    text-align: auto;
+}
+.btnhistory:hover{
+    width: 250px;
+}
+.btnpresent:hover{
+    width: 250px;
+}
+.Laloyd{
+    text-align: center; background-color: pink;
+}
+.Lavoid{
+    text-align: center; background-color: pink;
+}
+
